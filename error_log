@@ -1,0 +1,542 @@
+[07-Apr-2014 15:11:26 UTC] PHP Warning:  session_start(): Cannot find save handler 'memcached' - session startup failed in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 2
+[07-Apr-2014 15:11:26 UTC] PHP Warning:  include_once(/var/www/weraiseit/classes/Error.class.php): failed to open stream: No such file or directory in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 36
+[07-Apr-2014 15:11:26 UTC] PHP Warning:  include_once(): Failed opening '/var/www/weraiseit/classes/Error.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 36
+[07-Apr-2014 15:11:26 UTC] PHP Fatal error:  Class 'Error' not found in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 39
+[07-Apr-2014 15:21:47 UTC] PHP Warning:  session_start(): Cannot find save handler 'memcached' - session startup failed in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 2
+[07-Apr-2014 15:21:47 UTC] PHP Warning:  include_once(/weraiseit/classes/Error.class.php): failed to open stream: No such file or directory in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 36
+[07-Apr-2014 15:21:47 UTC] PHP Warning:  include_once(): Failed opening '/weraiseit/classes/Error.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 36
+[07-Apr-2014 15:21:47 UTC] PHP Fatal error:  Class 'Error' not found in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 39
+[07-Apr-2014 15:22:21 UTC] PHP Warning:  session_start(): Cannot find save handler 'memcached' - session startup failed in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 2
+[07-Apr-2014 15:22:21 UTC] PHP Parse error:  syntax error, unexpected '=' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 42
+[07-Apr-2014 15:22:49 UTC] PHP Warning:  session_start(): Cannot find save handler 'memcached' - session startup failed in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 2
+[07-Apr-2014 15:22:49 UTC] PHP Parse error:  syntax error, unexpected '=' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 42
+[07-Apr-2014 15:23:07 UTC] PHP Warning:  session_start(): Cannot find save handler 'memcached' - session startup failed in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 2
+[07-Apr-2014 15:23:07 UTC] PHP Warning:  include_once(/weraiseit/classes/Error.class.php): failed to open stream: No such file or directory in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 36
+[07-Apr-2014 15:23:07 UTC] PHP Warning:  include_once(): Failed opening '/weraiseit/classes/Error.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 36
+[07-Apr-2014 15:23:07 UTC] PHP Fatal error:  Class 'Error' not found in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 39
+[07-Apr-2014 15:23:30 UTC] PHP Warning:  session_start(): Cannot find save handler 'memcached' - session startup failed in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 2
+[07-Apr-2014 15:23:30 UTC] PHP Warning:  include_once(/weraiseit/classes/Error.class.php): failed to open stream: No such file or directory in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 36
+[07-Apr-2014 15:23:30 UTC] PHP Warning:  include_once(): Failed opening '/weraiseit/classes/Error.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 36
+[07-Apr-2014 15:23:30 UTC] PHP Fatal error:  Class 'Error' not found in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 39
+[07-Apr-2014 15:23:32 UTC] PHP Warning:  session_start(): Cannot find save handler 'memcached' - session startup failed in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 2
+[07-Apr-2014 15:23:32 UTC] PHP Warning:  include_once(/weraiseit/classes/Error.class.php): failed to open stream: No such file or directory in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 36
+[07-Apr-2014 15:23:32 UTC] PHP Warning:  include_once(): Failed opening '/weraiseit/classes/Error.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 36
+[07-Apr-2014 15:23:32 UTC] PHP Fatal error:  Class 'Error' not found in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 39
+[07-Apr-2014 15:23:42 UTC] PHP Warning:  session_start(): Cannot find save handler 'memcached' - session startup failed in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 2
+[07-Apr-2014 15:23:42 UTC] PHP Parse error:  syntax error, unexpected '=' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 42
+[07-Apr-2014 15:25:05 UTC] PHP Warning:  session_start(): Cannot find save handler 'memcached' - session startup failed in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 2
+[07-Apr-2014 15:25:05 UTC] PHP Parse error:  syntax error, unexpected '=' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 43
+[07-Apr-2014 15:25:56 UTC] PHP Warning:  session_start(): Cannot find save handler 'memcached' - session startup failed in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 3
+[07-Apr-2014 15:25:56 UTC] PHP Parse error:  syntax error, unexpected '=' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 43
+[07-Apr-2014 15:25:58 UTC] PHP Warning:  session_start(): Cannot find save handler 'memcached' - session startup failed in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 3
+[07-Apr-2014 15:25:58 UTC] PHP Parse error:  syntax error, unexpected '=' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 43
+[07-Apr-2014 15:27:42 UTC] PHP Parse error:  syntax error, unexpected '=' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 43
+[07-Apr-2014 15:28:39 UTC] PHP Warning:  include_once(/weraiseit/classes/Error.class.php): failed to open stream: No such file or directory in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 36
+[07-Apr-2014 15:28:39 UTC] PHP Warning:  include_once(): Failed opening '/weraiseit/classes/Error.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 36
+[07-Apr-2014 15:28:39 UTC] PHP Fatal error:  Class 'Error' not found in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 39
+[07-Apr-2014 15:30:15 UTC] PHP Warning:  include_once(/weraiseit/classes/Error.class.php): failed to open stream: No such file or directory in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 36
+[07-Apr-2014 15:30:15 UTC] PHP Warning:  include_once(): Failed opening '/weraiseit/classes/Error.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 36
+[07-Apr-2014 15:30:15 UTC] PHP Fatal error:  Class 'Error' not found in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 39
+[07-Apr-2014 15:30:57 UTC] PHP Warning:  include_once(/weraiseit/classes/Error.class.php): failed to open stream: No such file or directory in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 36
+[07-Apr-2014 15:30:57 UTC] PHP Warning:  include_once(): Failed opening '/weraiseit/classes/Error.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 36
+[07-Apr-2014 15:30:57 UTC] PHP Fatal error:  Class 'Error' not found in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 39
+[07-Apr-2014 15:32:40 UTC] PHP Warning:  Memcache::connect(): Can't connect to localhost:11211, Connection refused (111) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 43
+[07-Apr-2014 15:33:11 UTC] PHP Warning:  Memcache::connect(): Can't connect to http://www.agileblaze.com/dev/weraiseit:11211, Unable to find the socket transport &quot;http&quot; - did you forget to enable it when you configured PHP? (0) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 43
+[07-Apr-2014 15:33:27 UTC] PHP Warning:  Memcache::connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 43
+[07-Apr-2014 15:33:27 UTC] PHP Warning:  Memcache::connect(): Can't connect to www.agileblaze.com/dev/weraiseit:11211, php_network_getaddresses: getaddrinfo failed: Name or service not known (0) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 43
+[07-Apr-2014 15:35:05 UTC] PHP Warning:  include_once(weraiseitclasses/Error.class.php): failed to open stream: No such file or directory in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 36
+[07-Apr-2014 15:35:05 UTC] PHP Warning:  include_once(): Failed opening 'weraiseitclasses/Error.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 36
+[07-Apr-2014 15:35:05 UTC] PHP Fatal error:  Class 'Error' not found in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 39
+[07-Apr-2014 15:35:46 UTC] PHP Warning:  include_once(weraiseit/classes/Error.class.php): failed to open stream: No such file or directory in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 36
+[07-Apr-2014 15:35:46 UTC] PHP Warning:  include_once(): Failed opening 'weraiseit/classes/Error.class.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 36
+[07-Apr-2014 15:35:46 UTC] PHP Fatal error:  Class 'Error' not found in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/config/config.php on line 39
+[07-Apr-2014 17:16:07 UTC] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 21
+[07-Apr-2014 17:20:35 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'agility_weraise'@'localhost' to database 'weraiseit' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 21
+[07-Apr-2014 17:25:30 UTC] PHP Warning:  mysqli_connect(): (HY000/2003): Can't connect to MySQL server on '192.168.1.222' (110) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 21
+[07-Apr-2014 17:37:30 UTC] PHP Warning:  mysqli_connect(): (42000/1044): Access denied for user 'agility_weraise'@'localhost' to database 'weraiseit' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 21
+[08-Apr-2014 08:29:13 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 215
+[08-Apr-2014 08:29:58 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 215
+[08-Apr-2014 08:30:19 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 215
+[08-Apr-2014 08:41:28 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 202
+[08-Apr-2014 09:55:22 UTC] PHP Parse error:  syntax error, unexpected '}' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 25
+[08-Apr-2014 09:55:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 208
+[08-Apr-2014 09:56:42 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 423
+[08-Apr-2014 09:57:27 UTC] PHP Parse error:  syntax error, unexpected 'funct' (T_STRING), expecting variable (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 623
+[08-Apr-2014 09:57:49 UTC] PHP Parse error:  syntax error, unexpected end of file in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 283
+[08-Apr-2014 09:58:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 556
+[08-Apr-2014 10:03:08 UTC] PHP Parse error:  syntax error, unexpected end of file in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 497
+[08-Apr-2014 11:48:22 UTC] PHP Warning:  Illegal string offset 'user_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 46
+[08-Apr-2014 11:48:22 UTC] PHP Warning:  Illegal string offset 'merchant_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 46
+[08-Apr-2014 11:49:03 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 37
+[08-Apr-2014 11:50:06 UTC] PHP Parse error:  syntax error, unexpected '[', expecting ')' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 37
+[08-Apr-2014 11:50:09 UTC] PHP Warning:  Missing argument 2 for User::AddMerchantUser(), called in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 314 and defined in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 37
+[08-Apr-2014 11:54:37 UTC] PHP Warning:  Missing argument 2 for User::AddMerchantUser(), called in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 314 and defined in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 37
+[09-Apr-2014 06:56:52 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 70
+[09-Apr-2014 06:58:36 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 70
+[09-Apr-2014 06:58:51 UTC] PHP Fatal error:  Call to undefined method User::AddMerchantUser() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 314
+[09-Apr-2014 07:08:23 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:09:20 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:09:22 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:09:23 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:09:23 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:09:33 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:09:35 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:09:36 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:09:36 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:09:36 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:09:37 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:09:37 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:10:08 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:10:09 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:10:10 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:16:58 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:16:59 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:17:00 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:17:00 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:17:01 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:17:01 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:17:01 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:17:01 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:17:01 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:18:58 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:18:59 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:18:59 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:18:59 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:19:00 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:19:00 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:19:00 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:19:00 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:19:01 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:19:01 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 54
+[09-Apr-2014 07:19:26 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 52
+[09-Apr-2014 07:19:27 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 52
+[09-Apr-2014 07:19:28 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 52
+[09-Apr-2014 07:19:28 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 52
+[09-Apr-2014 07:19:28 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 52
+[09-Apr-2014 07:20:34 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 76
+[09-Apr-2014 07:22:24 UTC] PHP Parse error:  syntax error, unexpected '}' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 53
+[09-Apr-2014 07:22:38 UTC] PHP Parse error:  syntax error, unexpected '}' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 53
+[09-Apr-2014 07:25:06 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 52
+[17-Apr-2014 10:39:42 UTC] PHP Parse error:  syntax error, unexpected end of file in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 156
+[17-Apr-2014 10:41:24 UTC] PHP Parse error:  syntax error, unexpected end of file in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 153
+[17-Apr-2014 10:42:17 UTC] PHP Parse error:  syntax error, unexpected end of file in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 153
+[17-Apr-2014 13:52:44 UTC] PHP Parse error:  syntax error, unexpected 'no_of_merchat' (T_STRING), expecting ']' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 39
+[17-Apr-2014 14:30:10 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 189
+[17-Apr-2014 16:31:23 UTC] PHP Parse error:  syntax error, unexpected ''Email Alr' (T_ENCAPSED_AND_WHITESPACE), expecting ')' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 184
+[18-Apr-2014 06:55:52 UTC] PHP Fatal error:  Cannot redeclare User::updateUserPassword() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 442
+[18-Apr-2014 07:07:50 UTC] PHP Fatal error:  Call to undefined method User::AddUser1() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 56
+[18-Apr-2014 11:35:22 UTC] PHP Fatal error:  Call to undefined method User::AddUser1() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 57
+[18-Apr-2014 11:37:01 UTC] PHP Fatal error:  Call to undefined method User::AddUser1() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 57
+[18-Apr-2014 11:39:25 UTC] PHP Fatal error:  Call to undefined method User::AddUser1() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 57
+[18-Apr-2014 11:40:11 UTC] PHP Fatal error:  Call to undefined method User::AddUser1() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 57
+[18-Apr-2014 11:42:06 UTC] PHP Fatal error:  Call to undefined method User::AddUser1() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 57
+[18-Apr-2014 11:42:12 UTC] PHP Fatal error:  Call to undefined method User::AddUser1() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 57
+[18-Apr-2014 11:42:58 UTC] PHP Fatal error:  Call to undefined method User::AddUser1() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 57
+[18-Apr-2014 12:25:09 UTC] PHP Fatal error:  Call to undefined method User::AddUser1() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 57
+[18-Apr-2014 13:17:32 UTC] PHP Fatal error:  Call to undefined method User::AddUser1() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 116
+[22-Apr-2014 08:26:34 UTC] PHP Parse error:  syntax error, unexpected end of file in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 379
+[22-Apr-2014 08:42:33 UTC] PHP Fatal error:  Cannot redeclare User::AddUser() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 464
+[22-Apr-2014 09:33:45 UTC] PHP Parse error:  syntax error, unexpected 'getItemEventsList' (T_STRING), expecting function (T_FUNCTION) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 32
+[22-Apr-2014 09:33:48 UTC] PHP Parse error:  syntax error, unexpected 'getItemEventsList' (T_STRING), expecting function (T_FUNCTION) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 32
+[22-Apr-2014 09:33:52 UTC] PHP Parse error:  syntax error, unexpected 'getItemEventsList' (T_STRING), expecting function (T_FUNCTION) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 32
+[22-Apr-2014 09:34:06 UTC] PHP Parse error:  syntax error, unexpected 'getItemEventsList' (T_STRING), expecting function (T_FUNCTION) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 32
+[22-Apr-2014 11:11:40 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 42
+[22-Apr-2014 11:12:47 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 42
+[22-Apr-2014 11:12:50 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 42
+[22-Apr-2014 11:13:07 UTC] PHP Parse error:  syntax error, unexpected '63' (T_LNUMBER) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 55
+[22-Apr-2014 11:49:27 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[22-Apr-2014 12:05:45 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[22-Apr-2014 12:36:48 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[22-Apr-2014 12:42:56 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[22-Apr-2014 12:42:57 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[22-Apr-2014 12:43:14 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[22-Apr-2014 12:43:46 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[22-Apr-2014 12:44:10 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[22-Apr-2014 12:48:57 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[22-Apr-2014 12:53:31 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[22-Apr-2014 12:54:45 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[22-Apr-2014 13:01:09 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 56
+[22-Apr-2014 13:25:03 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 56
+[22-Apr-2014 13:25:07 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 56
+[22-Apr-2014 13:28:23 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 56
+[22-Apr-2014 13:28:43 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 56
+[22-Apr-2014 13:28:59 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 56
+[22-Apr-2014 13:29:00 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 56
+[22-Apr-2014 16:44:27 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 56
+[22-Apr-2014 16:50:17 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 56
+[22-Apr-2014 16:53:41 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 56
+[22-Apr-2014 16:53:56 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 56
+[22-Apr-2014 16:54:09 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 56
+[22-Apr-2014 16:58:01 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 56
+[22-Apr-2014 17:01:17 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 56
+[22-Apr-2014 17:02:09 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 56
+[22-Apr-2014 17:02:29 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 56
+[22-Apr-2014 17:07:30 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 56
+[22-Apr-2014 17:16:04 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 56
+[22-Apr-2014 17:18:55 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 57
+[22-Apr-2014 17:18:57 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 57
+[22-Apr-2014 17:18:57 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 57
+[22-Apr-2014 17:18:58 UTC] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 57
+[22-Apr-2014 17:19:21 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 78
+[22-Apr-2014 17:19:25 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 78
+[22-Apr-2014 17:19:28 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 78
+[22-Apr-2014 17:19:29 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 78
+[22-Apr-2014 17:19:29 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 78
+[22-Apr-2014 17:19:29 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 78
+[22-Apr-2014 17:19:30 UTC] PHP Parse error:  syntax error, unexpected 'SELECT' (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 78
+[22-Apr-2014 17:39:30 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[23-Apr-2014 06:51:34 UTC] PHP Parse error:  syntax error, unexpected 'result' (T_STRING), expecting variable (T_VARIABLE) or '$' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 422
+[23-Apr-2014 06:53:15 UTC] PHP Parse error:  syntax error, unexpected end of file in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 199
+[23-Apr-2014 06:54:18 UTC] PHP Parse error:  syntax error, unexpected ')' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 422
+[23-Apr-2014 06:54:21 UTC] PHP Parse error:  syntax error, unexpected ')' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 422
+[23-Apr-2014 06:54:23 UTC] PHP Parse error:  syntax error, unexpected ')' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 422
+[23-Apr-2014 09:29:52 UTC] PHP Fatal error:  Call to undefined function base_url() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/testattrgraphs.php on line 11
+[23-Apr-2014 09:29:58 UTC] PHP Fatal error:  Call to undefined function base_url() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/testattrgraphs.php on line 11
+[23-Apr-2014 11:49:35 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[23-Apr-2014 11:50:34 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[24-Apr-2014 11:37:34 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[25-Apr-2014 06:18:35 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[25-Apr-2014 06:18:50 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[25-Apr-2014 06:19:13 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[25-Apr-2014 13:30:40 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[28-Apr-2014 07:21:36 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[29-Apr-2014 10:30:29 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 128
+[29-Apr-2014 10:31:33 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 128
+[29-Apr-2014 10:32:16 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 128
+[29-Apr-2014 10:34:55 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 128
+[29-Apr-2014 10:36:54 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 128
+[29-Apr-2014 10:37:33 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 128
+[29-Apr-2014 10:38:20 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 128
+[29-Apr-2014 10:38:46 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 128
+[29-Apr-2014 10:38:51 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 128
+[29-Apr-2014 10:41:09 UTC] PHP Fatal error:  Call to undefined method User::getItemImage() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 609
+[29-Apr-2014 10:42:38 UTC] PHP Fatal error:  Call to undefined method Mobile::userImage() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 74
+[29-Apr-2014 10:44:14 UTC] PHP Fatal error:  Call to undefined function ActionSearchImage() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 53
+[02-May-2014 12:09:08 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[03-May-2014 06:25:27 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[03-May-2014 11:00:05 UTC] PHP Warning:  Illegal string offset 'merchant_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 253
+[03-May-2014 11:00:05 UTC] PHP Warning:  Illegal string offset 'email' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 253
+[07-May-2014 07:22:44 UTC] PHP Parse error:  syntax error, unexpected '{', expecting identifier (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 265
+[07-May-2014 07:22:59 UTC] PHP Parse error:  syntax error, unexpected '{', expecting identifier (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 265
+[07-May-2014 07:23:12 UTC] PHP Parse error:  syntax error, unexpected '{', expecting identifier (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 265
+[07-May-2014 07:23:13 UTC] PHP Parse error:  syntax error, unexpected '{', expecting identifier (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 265
+[07-May-2014 07:23:25 UTC] PHP Parse error:  syntax error, unexpected '{', expecting identifier (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 265
+[07-May-2014 07:23:52 UTC] PHP Parse error:  syntax error, unexpected '{', expecting identifier (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 265
+[07-May-2014 07:24:04 UTC] PHP Parse error:  syntax error, unexpected '{', expecting identifier (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 265
+[07-May-2014 07:24:18 UTC] PHP Parse error:  syntax error, unexpected '{', expecting identifier (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 265
+[07-May-2014 07:25:48 UTC] PHP Parse error:  syntax error, unexpected '{', expecting identifier (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 265
+[07-May-2014 07:25:51 UTC] PHP Parse error:  syntax error, unexpected '{', expecting identifier (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 265
+[07-May-2014 07:25:55 UTC] PHP Parse error:  syntax error, unexpected '{', expecting identifier (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 265
+[07-May-2014 07:26:24 UTC] PHP Parse error:  syntax error, unexpected '{', expecting identifier (T_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 265
+[07-May-2014 13:58:34 UTC] PHP Fatal error:  Class 'Mobile' not found in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 147
+[07-May-2014 14:12:06 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or '$' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 59
+[07-May-2014 14:18:05 UTC] PHP Fatal error:  Class 'User' not found in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 371
+[07-May-2014 14:19:14 UTC] PHP Parse error:  syntax error, unexpected end of file in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 410
+[09-May-2014 14:45:21 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 341
+[09-May-2014 14:46:34 UTC] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 341
+[13-May-2014 13:15:43 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 323
+[13-May-2014 13:15:46 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 323
+[13-May-2014 14:59:39 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 323
+[13-May-2014 16:26:11 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 323
+[13-May-2014 16:26:18 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 323
+[13-May-2014 16:26:20 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 323
+[13-May-2014 16:29:31 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 323
+[13-May-2014 17:06:05 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 323
+[13-May-2014 17:08:17 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 323
+[14-May-2014 04:01:28 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 323
+[14-May-2014 05:53:39 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 323
+[14-May-2014 06:32:38 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 323
+[14-May-2014 06:36:24 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 323
+[14-May-2014 06:48:56 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 323
+[14-May-2014 06:49:47 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 323
+[14-May-2014 06:59:17 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 323
+[14-May-2014 07:04:13 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 325
+[14-May-2014 07:04:41 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 323
+[14-May-2014 07:11:26 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 324
+[14-May-2014 07:11:28 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 324
+[14-May-2014 07:11:49 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 329
+[14-May-2014 07:12:07 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 329
+[14-May-2014 07:12:14 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 329
+[14-May-2014 07:12:17 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 329
+[14-May-2014 07:12:25 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 329
+[14-May-2014 07:27:51 UTC] PHP Warning:  Illegal string offset 'id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 324
+[14-May-2014 10:54:55 UTC] PHP Fatal error:  Cannot redeclare ActionDonate() (previously declared in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php:222) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 232
+[14-May-2014 10:55:41 UTC] PHP Fatal error:  Cannot redeclare ActionDonate() (previously declared in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php:222) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 232
+[14-May-2014 10:55:47 UTC] PHP Fatal error:  Cannot redeclare ActionDonate() (previously declared in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php:222) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 232
+[14-May-2014 10:56:38 UTC] PHP Fatal error:  Cannot redeclare ActionDonate() (previously declared in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php:222) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 232
+[14-May-2014 10:57:01 UTC] PHP Fatal error:  Cannot redeclare ActionDonate() (previously declared in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php:222) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 232
+[14-May-2014 10:57:13 UTC] PHP Fatal error:  Cannot redeclare ActionDonate() (previously declared in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php:222) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 232
+[14-May-2014 10:57:20 UTC] PHP Fatal error:  Cannot redeclare ActionDonate() (previously declared in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php:222) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 232
+[14-May-2014 10:57:33 UTC] PHP Fatal error:  Cannot redeclare ActionDonate() (previously declared in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php:222) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 232
+[14-May-2014 10:57:44 UTC] PHP Fatal error:  Cannot redeclare ActionDonate() (previously declared in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php:222) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 232
+[14-May-2014 10:59:37 UTC] PHP Fatal error:  Cannot redeclare Mobile::OrderDonation() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 892
+[14-May-2014 10:59:45 UTC] PHP Fatal error:  Cannot redeclare Mobile::OrderDonation() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 892
+[14-May-2014 11:00:16 UTC] PHP Fatal error:  Cannot redeclare Mobile::OrderDonation() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 892
+[14-May-2014 12:21:36 UTC] PHP Parse error:  syntax error, unexpected end of file in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 942
+[15-May-2014 07:40:27 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting function (T_FUNCTION) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 876
+[15-May-2014 10:35:43 UTC] PHP Parse error:  syntax error, unexpected end of file in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 546
+[15-May-2014 11:06:36 UTC] PHP Fatal error:  Class 'User' not found in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 649
+[15-May-2014 13:20:45 UTC] PHP Fatal error:  Call to undefined method Database::updateQuery() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1036
+[19-May-2014 07:09:13 UTC] PHP Parse error:  syntax error, unexpected '$results1' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 340
+[20-May-2014 06:39:06 UTC] PHP Parse error:  syntax error, unexpected '}' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 850
+[20-May-2014 06:39:49 UTC] PHP Parse error:  syntax error, unexpected '}' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 850
+[20-May-2014 06:39:56 UTC] PHP Parse error:  syntax error, unexpected '}' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 850
+[20-May-2014 07:21:49 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[20-May-2014 07:24:58 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[20-May-2014 07:27:22 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[20-May-2014 07:48:58 UTC] PHP Warning:  Illegal string offset 'merchant_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 843
+[20-May-2014 07:48:58 UTC] PHP Warning:  Illegal string offset 'user_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 843
+[20-May-2014 07:48:58 UTC] PHP Warning:  Illegal string offset 'user_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 848
+[20-May-2014 07:53:29 UTC] PHP Warning:  Illegal string offset 'merchant_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 843
+[20-May-2014 07:53:29 UTC] PHP Warning:  Illegal string offset 'user_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 843
+[20-May-2014 07:54:26 UTC] PHP Warning:  Illegal string offset 'merchant_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 843
+[20-May-2014 07:54:26 UTC] PHP Warning:  Illegal string offset 'user_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 843
+[21-May-2014 14:02:35 UTC] PHP Fatal error:  Call to undefined function ActionOrderPayment() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 59
+[22-May-2014 09:33:04 UTC] PHP Warning:  stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 330
+[22-May-2014 09:33:04 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 330
+[22-May-2014 09:33:04 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Unknown error) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 330
+[22-May-2014 10:11:17 UTC] PHP Warning:  stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 330
+[22-May-2014 10:11:17 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 330
+[22-May-2014 10:11:17 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Unknown error) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 330
+[22-May-2014 10:32:16 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting function (T_FUNCTION) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1143
+[22-May-2014 10:41:06 UTC] PHP Parse error:  syntax error, unexpected ';' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 315
+[22-May-2014 10:41:08 UTC] PHP Parse error:  syntax error, unexpected ';' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 315
+[28-May-2014 05:30:51 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[29-May-2014 03:07:34 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[29-May-2014 03:07:37 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[29-May-2014 04:17:38 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[29-May-2014 05:56:44 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[29-May-2014 09:17:59 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[30-May-2014 06:54:47 UTC] PHP Warning:  Illegal string offset 'user_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1172
+[30-May-2014 10:15:27 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[30-May-2014 10:32:32 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[02-Jun-2014 06:14:36 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1185
+[02-Jun-2014 07:29:07 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:29:42 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:29:49 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:29:51 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:30:09 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:33:28 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:33:33 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:33:36 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:33:37 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:33:41 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:33:45 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:33:47 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:33:47 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:33:57 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:34:03 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:34:07 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:34:10 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:34:11 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:34:19 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:34:28 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:34:28 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:34:35 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:34:45 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:34:55 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:34:57 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:35:13 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:35:16 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:35:57 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:36:02 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 634
+[02-Jun-2014 07:37:43 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 636
+[02-Jun-2014 07:38:01 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 636
+[02-Jun-2014 07:38:10 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 636
+[02-Jun-2014 07:38:24 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 636
+[02-Jun-2014 07:38:28 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 636
+[02-Jun-2014 07:38:29 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 636
+[02-Jun-2014 07:38:31 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 636
+[02-Jun-2014 07:41:21 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 636
+[02-Jun-2014 07:41:43 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 636
+[02-Jun-2014 07:42:24 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 636
+[02-Jun-2014 07:42:27 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 636
+[02-Jun-2014 07:43:51 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 636
+[02-Jun-2014 07:56:30 UTC] PHP Parse error:  syntax error, unexpected end of file in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1061
+[02-Jun-2014 09:48:49 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[02-Jun-2014 09:49:47 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[02-Jun-2014 09:51:24 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[02-Jun-2014 10:23:29 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[02-Jun-2014 10:23:31 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[02-Jun-2014 10:23:32 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[02-Jun-2014 10:23:33 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[02-Jun-2014 10:23:33 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[02-Jun-2014 10:23:34 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[02-Jun-2014 10:23:41 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[02-Jun-2014 10:23:43 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[02-Jun-2014 10:23:44 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[02-Jun-2014 16:46:14 UTC] PHP Parse error:  syntax error, unexpected '}' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 891
+[02-Jun-2014 16:46:20 UTC] PHP Parse error:  syntax error, unexpected '}' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 891
+[02-Jun-2014 19:41:20 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[03-Jun-2014 05:25:18 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[03-Jun-2014 05:25:37 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[03-Jun-2014 06:18:07 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[03-Jun-2014 06:24:06 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[03-Jun-2014 06:42:33 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[03-Jun-2014 06:42:37 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[03-Jun-2014 06:42:45 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[03-Jun-2014 06:44:43 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[03-Jun-2014 08:57:29 UTC] PHP Fatal error:  Call to undefined function ActionOrderPayment() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 59
+[04-Jun-2014 06:24:06 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[04-Jun-2014 06:40:59 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[04-Jun-2014 06:44:24 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[04-Jun-2014 08:35:19 UTC] PHP Fatal error:  Call to undefined function ActionOrderPayment() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 59
+[04-Jun-2014 08:37:05 UTC] PHP Fatal error:  Call to undefined method Mobile::OrderPayment() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 325
+[04-Jun-2014 08:37:07 UTC] PHP Fatal error:  Call to undefined method Mobile::OrderPayment() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 325
+[05-Jun-2014 07:59:47 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 648
+[05-Jun-2014 08:01:05 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 648
+[05-Jun-2014 08:01:07 UTC] PHP Parse error:  syntax error, unexpected '{', expecting '(' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 648
+[05-Jun-2014 10:12:36 UTC] PHP Parse error:  syntax error, unexpected '*' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 649
+[05-Jun-2014 10:13:10 UTC] PHP Parse error:  syntax error, unexpected '*' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 649
+[05-Jun-2014 10:13:37 UTC] PHP Parse error:  syntax error, unexpected '*' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 649
+[05-Jun-2014 10:14:05 UTC] PHP Parse error:  syntax error, unexpected '*' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 649
+[05-Jun-2014 10:14:09 UTC] PHP Parse error:  syntax error, unexpected '*' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 649
+[05-Jun-2014 10:14:28 UTC] PHP Parse error:  syntax error, unexpected '*' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 649
+[05-Jun-2014 10:15:25 UTC] PHP Parse error:  syntax error, unexpected '*' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 649
+[05-Jun-2014 10:16:52 UTC] PHP Parse error:  syntax error, unexpected '*' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 649
+[05-Jun-2014 11:59:56 UTC] PHP Parse error:  syntax error, unexpected end of file in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 400
+[09-Jun-2014 11:28:32 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[09-Jun-2014 14:52:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 814
+[09-Jun-2014 14:52:49 UTC] PHP Parse error:  syntax error, unexpected '{' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 815
+[09-Jun-2014 14:53:15 UTC] PHP Parse error:  syntax error, unexpected '{' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 815
+[09-Jun-2014 17:43:56 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[10-Jun-2014 05:22:31 UTC] PHP Fatal error:  Call to undefined method Mobile::OrderPayment() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 335
+[10-Jun-2014 09:13:27 UTC] PHP Fatal error:  Call to undefined method Mobile::OrderPayment() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 335
+[10-Jun-2014 10:57:22 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting ';' or '{' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 649
+[10-Jun-2014 10:57:25 UTC] PHP Parse error:  syntax error, unexpected '.' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 1287
+[10-Jun-2014 10:57:54 UTC] PHP Parse error:  syntax error, unexpected '.' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 1287
+[10-Jun-2014 11:07:38 UTC] PHP Fatal error:  Call to undefined method Mobile::OrderPayment() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 335
+[10-Jun-2014 11:07:58 UTC] PHP Fatal error:  Call to undefined method Mobile::OrderPayment() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 335
+[10-Jun-2014 11:09:16 UTC] PHP Fatal error:  Call to undefined method Mobile::OrderPayment() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 335
+[10-Jun-2014 12:15:02 UTC] PHP Parse error:  syntax error, unexpected end of file in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 400
+[11-Jun-2014 07:13:53 UTC] PHP Fatal error:  Call to undefined method Mobile::OrderPayment() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 335
+[11-Jun-2014 07:15:02 UTC] PHP Fatal error:  Call to undefined method Mobile::OrderPayment() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 335
+[11-Jun-2014 07:21:26 UTC] PHP Fatal error:  Call to undefined method Mobile::OrderPayment() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 335
+[11-Jun-2014 14:26:11 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[11-Jun-2014 14:57:54 UTC] PHP Parse error:  syntax error, unexpected end of file in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 405
+[11-Jun-2014 15:15:06 UTC] PHP Fatal error:  Call to undefined method Mobile::OrderPayment() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 335
+[12-Jun-2014 10:04:48 UTC] PHP Parse error:  syntax error, unexpected ''Message not delivered'' (T_CONSTANT_ENCAPSED_STRING) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1390
+[12-Jun-2014 10:05:30 UTC] PHP Fatal error:  Call to undefined method User::sentNotifications() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1340
+[12-Jun-2014 10:06:09 UTC] PHP Warning:  stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1363
+[12-Jun-2014 10:06:09 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1363
+[12-Jun-2014 10:06:09 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.push.apple.com:2195 (Unknown error) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1363
+[12-Jun-2014 10:07:46 UTC] PHP Warning:  stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1363
+[12-Jun-2014 10:07:46 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1363
+[12-Jun-2014 10:07:46 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.push.apple.com:2195 (Unknown error) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1363
+[12-Jun-2014 10:07:49 UTC] PHP Warning:  stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1363
+[12-Jun-2014 10:07:49 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1363
+[12-Jun-2014 10:07:49 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.push.apple.com:2195 (Unknown error) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1363
+[12-Jun-2014 10:09:11 UTC] PHP Warning:  stream_socket_client(): php_network_getaddresses: getaddrinfo failed: No address associated with hostname in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1363
+[12-Jun-2014 10:09:11 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.apple.com:2195 (php_network_getaddresses: getaddrinfo failed: No address associated with hostname) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1363
+[12-Jun-2014 10:11:14 UTC] PHP Warning:  stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 10:11:14 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 10:11:14 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Unknown error) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 10:52:55 UTC] PHP Warning:  stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 10:52:55 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 10:52:55 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Unknown error) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 10:52:58 UTC] PHP Warning:  stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 10:52:58 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 10:52:58 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Unknown error) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 11:01:40 UTC] PHP Warning:  stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 11:01:40 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 11:01:40 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2196 (Unknown error) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 11:02:57 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:localhost (Connection timed out) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 11:03:58 UTC] PHP Warning:  stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 11:03:58 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 11:03:58 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Unknown error) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 11:03:58 UTC] PHP Warning:  stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 11:03:58 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 11:03:58 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Unknown error) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 11:03:58 UTC] PHP Warning:  stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 11:03:58 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 11:03:58 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Unknown error) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 11:04:33 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:174.129.243.151 (Connection timed out) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 11:05:28 UTC] PHP Warning:  stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 11:05:28 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 11:05:28 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.push.apple.com:2195 (Unknown error) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1365
+[12-Jun-2014 11:12:14 UTC] PHP Warning:  stream_socket_client(): SSL operation failed with code 1. OpenSSL Error messages:
+error:14094410:SSL routines:SSL3_READ_BYTES:sslv3 alert handshake failure in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 1526
+[12-Jun-2014 11:12:14 UTC] PHP Warning:  stream_socket_client(): Failed to enable crypto in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 1526
+[12-Jun-2014 11:12:14 UTC] PHP Warning:  stream_socket_client(): unable to connect to ssl://gateway.sandbox.push.apple.com:2195 (Unknown error) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 1526
+[13-Jun-2014 04:18:32 UTC] PHP Parse error:  syntax error, unexpected '$url' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1374
+[13-Jun-2014 04:19:42 UTC] PHP Parse error:  syntax error, unexpected '$url' (T_VARIABLE) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1374
+[13-Jun-2014 04:20:58 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1377
+[13-Jun-2014 04:20:58 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1377
+[13-Jun-2014 04:59:15 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1378
+[13-Jun-2014 04:59:16 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1378
+[13-Jun-2014 04:59:39 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1377
+[13-Jun-2014 04:59:40 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1377
+[13-Jun-2014 05:03:14 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1377
+[13-Jun-2014 05:03:15 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1377
+[13-Jun-2014 05:24:07 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1390
+[13-Jun-2014 05:24:07 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1390
+[13-Jun-2014 05:32:58 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1391
+[13-Jun-2014 05:33:12 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1398
+[13-Jun-2014 05:33:12 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1398
+[13-Jun-2014 05:34:30 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1399
+[13-Jun-2014 05:34:36 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1399
+[13-Jun-2014 05:34:55 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1398
+[13-Jun-2014 05:34:55 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1398
+[13-Jun-2014 05:38:25 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1399
+[13-Jun-2014 05:38:25 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1399
+[13-Jun-2014 05:42:22 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1403
+[13-Jun-2014 05:42:22 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1403
+[13-Jun-2014 05:43:18 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1403
+[13-Jun-2014 05:43:18 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1403
+[13-Jun-2014 05:43:41 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1400
+[13-Jun-2014 05:43:41 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1400
+[13-Jun-2014 05:45:58 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1400
+[13-Jun-2014 05:45:58 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1400
+[13-Jun-2014 05:47:22 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1401
+[13-Jun-2014 05:47:44 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1400
+[13-Jun-2014 05:47:44 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1400
+[13-Jun-2014 05:48:15 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1399
+[13-Jun-2014 05:48:16 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1399
+[13-Jun-2014 05:48:56 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1399
+[13-Jun-2014 05:48:57 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1399
+[13-Jun-2014 05:51:59 UTC] PHP Fatal error:  Call to undefined function array2json() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1392
+[13-Jun-2014 05:53:16 UTC] PHP Fatal error:  Call to undefined function sendNotificationsAndroid() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1392
+[13-Jun-2014 05:53:45 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1399
+[13-Jun-2014 05:53:45 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1399
+[13-Jun-2014 05:56:41 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1399
+[13-Jun-2014 05:56:41 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1399
+[13-Jun-2014 06:02:35 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1399
+[13-Jun-2014 06:05:09 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1392
+[13-Jun-2014 06:05:09 UTC] PHP Warning:  Illegal string offset 'regd_id' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 1392
+[13-Jun-2014 23:29:34 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[16-Jun-2014 06:10:18 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[16-Jun-2014 07:18:32 UTC] PHP Fatal error:  Class 'User' not found in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 715
+[16-Jun-2014 07:18:32 UTC] PHP Fatal error:  Class 'User' not found in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 715
+[16-Jun-2014 07:32:11 UTC] PHP Fatal error:  Call to undefined method Mobile::OrderPayment() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 341
+[16-Jun-2014 07:32:48 UTC] PHP Fatal error:  Call to undefined method Mobile::OrderPayment() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 341
+[16-Jun-2014 07:32:53 UTC] PHP Fatal error:  Call to undefined method Mobile::OrderPayment() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 341
+[16-Jun-2014 07:32:53 UTC] PHP Fatal error:  Call to undefined method Mobile::OrderPayment() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 341
+[16-Jun-2014 07:32:54 UTC] PHP Fatal error:  Call to undefined method Mobile::OrderPayment() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 341
+[16-Jun-2014 07:33:02 UTC] PHP Fatal error:  Call to undefined method Mobile::OrderPayment() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/mobapp.php on line 341
+[16-Jun-2014 11:21:00 UTC] PHP Parse error:  syntax error, unexpected end of file, expecting variable (T_VARIABLE) or ${ (T_DOLLAR_OPEN_CURLY_BRACES) or {$ (T_CURLY_OPEN) in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 195
+[16-Jun-2014 13:05:51 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[16-Jun-2014 13:18:52 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[16-Jun-2014 14:07:22 UTC] PHP Fatal error:  Class 'User' not found in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 1270
+[16-Jun-2014 14:07:22 UTC] PHP Fatal error:  Class 'User' not found in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 1418
+[16-Jun-2014 14:23:05 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[16-Jun-2014 14:23:05 UTC] PHP Warning:  Illegal string offset 'first_name' in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/User.class.php on line 967
+[16-Jun-2014 14:23:42 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[16-Jun-2014 14:23:45 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[16-Jun-2014 14:24:08 UTC] PHP Warning:  mysqli_query(): Empty query in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Database.class.php on line 37
+[20-Jun-2014 09:08:33 UTC] PHP Fatal error:  Call to undefined function isarray() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 1602
+[20-Jun-2014 09:09:22 UTC] PHP Warning:  is_array() expects exactly 1 parameter, 0 given in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 1602
+[20-Jun-2014 10:08:32 UTC] PHP Fatal error:  Call to undefined function appAuthenticateQRCode() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/Mobile.class.php on line 1622
+[23-Jun-2014 13:09:55 UTC] PHP Fatal error:  Call to undefined method MobileIII::GenerateMobileOutput() in /home_ebs1/agility/public_html/dev/weraiseit/weraiseit/classes/MobileIII.class.php on line 39
