@@ -1,7 +1,7 @@
 <?php
 ob_start ();
 	//session_start();
-echo "Hello";
+
 	require_once('config/config.php');
 	$action = $_REQUEST['action'];
 	$_SESSION["error"] = array();
@@ -24,155 +24,253 @@ echo "Hello";
 				break;
 		case "updateuser" : 
 				ActionUpdateUser();
-				break;
-		case "shownews" : 
-				ActionShowNews();
-				break;
-		case "showads" : 
-				ActionShowAds();
-				break;
-		case "browsepetitions" : 
-				ActionBrowsePetitions();
-				break;
-		case "showtopics" : 
-				ActionShowTopics();
-				break;
-		case "showrefinemenu" : 
-				ActionShowRefineMenu();
-				break;
-		case "viewpetition" : 
-				ActionViewPetition();
-				break;
-		case "showquestion" : 
-				ActionShowQuestion();
-				break;
-		case "mysigns" : 
-				ActionShowMySignatures();
-				break;
+				break;		
 		case "paswdreset" :
 				ActionResetPaswd();
 				break;
 		case "changepaswd" :
 				ActionChangePaswd();
 				break;
-		case "savesign" :
-				ActionSaveSign();
+                case "updatemerchants" :
+				ActionUpdateMerchants();
+				break;
+                case "viewEvents" :
+				ActionViewEvents();
+				break;
+		case "signinfb" : 
+				ActionSignUpFb();
+				break;
+                case "searchItems" : 
+				ActionSearchItems();
+				break;
+		case "viewItems" : 
+				ActionViewEventItems();
+				break;
+		case "getImages" : 
+				ActionGetImages();
+				break;
+		case "itemlist" : 
+				ActionItemsList();
+				break;
+		case "bidder" : 
+				ActionViewBidder();
+				break;
+                case "orderpayment" : 
+				ActionOrderPayment();
+				break;
+		case "donateToEvent" :	
+				ActionDonate();
+				break;
+                case "viewauctions" :
+				ActionViewAuctions();
+				break;
+                case "onlineauctionitems" :
+				ActionViewOnlineItems();
+				break;
+		case "userprofile" :
+				ActionEditProfile();
 				break;
 
-		case "showpoll" : 
-				ActionShowPoll();
+		case "bidnow" :
+				ActionBidNow();
 				break;
-
-		case "showpollarchive" : 
-				ActionShowPollArchive();
+                 case "donationTypes" :
+                                ActionDonationTypes();
+			        break;
+		case "carduserlist" : 
+				ActionCardUserList();
 				break;
-
-		case "pollresult" : 
-				ActionPollResult();
+		case "addcreditcard" : 
+				ActionAddCardUser();
+				break;
+		case "updatecreditcard" : 
+				ActionUpdateCardUser();
+				break;
+		case "deletecreditcard" : 
+				ActionDeleteCardUser();
+				break;
+		case "watchlist" : 
+				Actionwatchlist();
+				break;
+		case "deletewatchlist" : 
+				Actiondeletewatchlistuser();
+				break;
+		case "listwatchlist" : 
+				Actionlistwatchlist();
+				break;
+		case "pushnotification" : 
+				Actionpushnotification();
+				break;
+                case "auctionitem" :
+				ActionViewAuctionItems();
+				break;
+		case "mobileuserinfo" : 
+				Actionmobileuserinfo();
+				break;
+		case "isUserPurchased" : 
+				actionIsUserPurchased();
+				break;
+		case "eventRegistration" : 
+				actionEventRegistration();
+				break;
+		case "getMeals" : 
+				actionGetMeals();
 				break;
 		default :
 	}
 
-	function ActionShowPoll()
+
+        function ActionViewOnlineItems()
 	{
 		$data = $_REQUEST;
 		$mobile = new Mobile();
-		echo $mobile->viewPollInfo($data);
+		echo $mobile->ViewAuctionItems($data);
+	}
+	
+        function ActionViewAuctionItems()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->ViewItemsAuctioned($data);
+	}
+	
+		function Actionlistwatchlist()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->listwatchlist($data);
+	}
+	
+	function Actionmobileuserinfo()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->mobileuserinfo($data);
+	}
+	
+
+	function Actionpushnotification()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->pushnotification($data);
+		
+
+   	
+   	
+		
+		
+	}
+	
+	function Actiondeletewatchlistuser()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->deleteWatchlistUser($data);
+	}
+	
+	function Actionwatchlist()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->addWatchlistUser($data);
 	}
 
-	function ActionShowPollArchive()
+	function ActionAddCardUser()
 	{
 		$data = $_REQUEST;
 		$mobile = new Mobile();
-		echo $mobile->viewPollArchive($data);
+		echo $mobile->addCardUser($data);
+	}
+	
+	function ActionDeleteCardUser()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->deleteCardUser($data);
+	}
+	
+	function ActionUpdateCardUser()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->updateCardUser($data);
+	}
+	
+	function ActionCardUserList()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->CardUserList($data);
 	}
 
-	function ActionPollResult()
+        function ActionViewAuctions()
 	{
 		$data = $_REQUEST;
 		$mobile = new Mobile();
-		echo $mobile->viewPollResult($data);
+		echo $mobile->ViewAuctions($data);
 	}
 
-	function ActionSaveSign()
-	{
-		$data = $_REQUEST;
-		$mobile = new Mobile();
-		echo $mobile->initUserPetition($data);
-	}
+
 	function ActionChangePaswd()
 	{
 		$data = $_REQUEST;
 		$mobile = new Mobile();
 		echo $mobile->authenticateUser($data);
 	}
+
+	function ActionViewBidder()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->userBids($data);
+	}
+
+	function ActionItemsList()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->eventItemsList($data);
+	}
+
+	function ActionGetImages()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->imagesList($data);
+	}
+
+	function ActionViewEventItems()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->viewEvents($data);
+	}
+
 	function ActionResetPaswd()
 	{
 		$data = $_REQUEST;
 		$mobile = new Mobile();
 		echo $mobile->checkValidUser($data);
 	}
-	function ActionShowMySignatures()
-	{
-		$data = $_REQUEST;
-		$mobile = new Mobile();
-		echo $mobile->listMySignatures($data);
-	}
-
+	
 	function ActionCheckFbUser()
 	{
 		$data = $_REQUEST;
 		$mobile = new Mobile();
 		echo $mobile->fetchUserFbInfo($data);
 	}
-	function ActionShowQuestion()
-	{
-		$data = $_REQUEST;
-		$mobile = new Mobile();
-		echo $mobile->listActiveTopics($data);
-	}
+	
 
-	function ActionViewPetition()
+       function ActionUpdateMerchants()
 	{
+                 
 		$data = $_REQUEST;
 		$mobile = new Mobile();
-		echo $mobile->viewPetitionInfo($data);
+                echo $mobile->updateMerchantInfo($data);
 	}
+	
 
-	function ActionShowRefineMenu()
-	{
-		$data = $_REQUEST;
-		$mobile = new Mobile();
-		echo $mobile->listAllActiveTopics($data);
-	}
-
-	function ActionShowTopics()
-	{
-		$data = $_REQUEST;
-		$mobile = new Mobile();
-		echo $mobile->listActiveTopics($data);
-	}
-
-	function ActionShowAds()
-	{
-		$data = $_REQUEST;
-		$mobile = new Mobile();
-		echo $mobile->listActiveAds($data);
-	}
-
-	function ActionShowNews()
-	{
-		$data = $_REQUEST;
-		$mobile = new Mobile();
-		echo $mobile->listAllNews($data);
-	}
-
-	function ActionBrowsePetitions()
-	{
-		$data = $_REQUEST;
-		$mobile = new Mobile();
-		echo $mobile->viewAllPetitions($data);
-	}
 
 	function ActionSignUp()
 	{
@@ -188,8 +286,16 @@ echo "Hello";
 		echo $mobile->AddMobileFBUser($data);
 	}
 
+	function ActionSignUpFb()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->AddMobileUserFB($data);
+	}
+
 	function ActionSignIn()
 	{
+
 		$data = $_REQUEST;
 		$mobile = new Mobile();
 		echo $mobile->AuthenticateMobileUser($data);
@@ -208,5 +314,78 @@ echo "Hello";
 		$mobile = new Mobile();
 		echo $mobile->UpdateMobileUser($data);
 	}
+
+        function ActionViewEvents()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->ViewMerchantEvents($data);
+	}
+
+     function ActionSearchItems()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->GetItemEvents($data);
+	}
+     function ActionBidNow()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->updateBids($data);
+	}
+
+	function ActionDonate()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->OrderDonation($data);
+	}
+
+  
+        	function ActionOrderPayment()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->OrderPayment($data);
+	}
+
+        	function ActionEditProfile()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->UpdateUser($data);
+	}
+
+ 	function ActionDonationTypes()
+	{
+		$data = $_REQUEST;
+		$mobile = new Mobile();
+		echo $mobile->GetDonationTypes($data);
+	}
+	// spring III
+	
+	
+	function actionIsUserPurchased()
+	{
+		$data = $_REQUEST;
+		$mobile = new MobileIII();
+		echo $mobile->eventIsUserPurchased($data);
+	}
+	
+	function actionEventRegistration()
+	{
+		$data = $_REQUEST;
+		$mobile = new MobileIII();
+		echo $mobile->eventRegistration($data);
+	}
+	
+	function actionGetMeals()
+	{
+		$data = $_REQUEST;
+		$mobile = new MobileIII();
+		echo $mobile->getMealListIfAvail($data);
+	}
+      
 
 ?>

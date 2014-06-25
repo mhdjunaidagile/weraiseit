@@ -10,16 +10,129 @@ class MobileIII
 	}
 	// version III
 	
+	public function eventIsUserPurchased($data)
+	{
+		$data = Core::SanitizeData($data);
+		$user = new UserIII();
+		$user1 = new User();
+		$status=$user->isPurchasedMobileUser($data['eventId'],$data['mobileUserId']);
+		
+			$resultArr = array(
+			"status" 	=> $status['stat'],
+			"error"		=> $status['msg'],
+			"info"        => $status['info']                  
+                        );
+		
+			$rst = self::GenerateMobileOutput($resultArr);
+			return $rst;
+		
+		
+	}
+	
+	public function getMealListIfAvail($data)
+	{
+		$user = new UserIII();
+		$user1 = new User();
+		 global $_error;
+		 $data = Core::SanitizeData($data);
+		 // validation start
+		 if(!(isset($data['mobileUserId'])||isset($data['eventId'])))
+		{
+			 $resultArr = array(
+			"status" 	=> "failure",
+			"error"		=> "Invalid arguments",
+			"action"			=> "",
+			"info"        => "Access Denied"                  
+                        );
+		
+			$rst = self::GenerateMobileOutput($resultArr);
+			return $rst;
+		}
+		else
+		{
+			if($data['mobileUserId']==''||$data['eventId']=='')
+			{
+				
+				 $resultArr = array(
+								"status" 	=> "failure",
+								"error"		=> "Arguments Could not be empty",
+								"action"			=> "",
+								"info"        => "Access Denied"                  
+									);
+		
+			$rst = self::GenerateMobileOutput($resultArr);
+			return $rst;
+				
+				
+			}
+			
+			
+		}
+		
+		
+		$eventValid=$user->isEventId($data['eventId']);
+		
+		if($eventValid==0)
+		{
+			 $resultArr = array(
+								"status" 	=> "failure",
+								"error"		=> "Invalid Event",
+								"action"			=> "",
+								"info"        => "Access Denied"                  
+									);
+		
+			$rst = self::GenerateMobileOutput($resultArr);
+			return $rst;
+				
+				
+		}
+			
+		$userValid=$user->isMobileUser($data['mobileUserId']);
+		if($userValid==0)
+		{
+			 $resultArr = array(
+								"status" 	=> "failure",
+								"error"		=> "Invalid User",
+								"action"			=> "",
+								"info"        => "Access Denied"                  
+									);
+		
+			$rst = self::GenerateMobileOutput($resultArr);
+			return $rst;
+				
+				
+		}
+		
+		// validation over
+		 $meals=$user->getMealsListReminingEvents($data['eventId']);
+		 $resultArr = array(
+						"status" 	=> "success",
+						"error"		=> "",
+						"action"			=> "skip",
+						"info"        => "No meals available"                  
+							);
+		
+			$rst = self::GenerateMobileOutput($resultArr);
+			return $rst;
+		
+		
+	}
+	
+	
+	
+	
 	// Event Registration QR code
 	
 	public function eventRegistration($data)
     {
 		
 		$user = new UserIII();
+		$user1 = new User();
+		
 
         global $_error;
         // parameter validating
-		if(!(isset($data['userId'])||isset($data['eventId'])||isset($data['action'])))
+		if(!(isset($data['userId'])||isset($data['eventId'])||isset($data['action']) ||isset($data['usrStat'])))
 		{
 			
 			$resultArr = array(
@@ -33,7 +146,7 @@ class MobileIII
 		}
 		else
 		{
-			if($data['mobuserId']==''||$data['eventId']==''||$data['action']==''){
+			if($data['mobuserId']==''||$data['eventId']==''||$data['action']=='' ||$data['usrStat']==''){
 				
 				$resultArr = array(
 			"status" 	=> "failure",
@@ -46,7 +159,7 @@ class MobileIII
 			}
 			
 			
-			}
+		}
 		$data = Core::SanitizeData($data);
 		
 		
@@ -55,11 +168,11 @@ class MobileIII
 		$status 	= 	'';
 		$error 		= 	'';
 		$usrId 		= 	0;
-		$user = new User();
+		
                 
           $data['id']=  $data['mobuserId'];  
     
-		 $result = $user->InfoMobileUser($data);
+		 $result = $user1->InfoMobileUser($data);
 		 
 		
 		 if(is_array($result))
@@ -83,24 +196,41 @@ class MobileIII
 			 { // success validations
 					
 					$data['email']=$result[0]['email'];
-					$code= $user->appAuthenticateQRCode($data);
+					if($data['usrStat']=='reg')
+					{
+						$code= $user->appAuthenticateQRCode($data);
+						$data['code']=$code;
 					
-					$upflag= $user->isExistActionBiddersTable($data['mobuserId'], $data['eventId'], $data['email'], $code);
+						$upflag= $user->isExistActionBiddersTable($data['mobuserId'], $data['eventId'], $data['email'], $code);
 					
-					if($upflag){
-					 $status 	= 	"success";
-					$error 		= 	''; 
-					$result		=   $code;}
+						if($upflag)
+						{
+							echo  $status 	= 	"success";
+							$error 		= 	''; 
+							$result		=   $code;
+						}
+						else
+						{
+						
+								echo "new dfdf";
+								$status 	= 	"failure";
+								$error 		= 	'Error encountered'; 
+								$result		=   '';
+						}
+					}
 					else
 					{
-							$status 	= 	"failure";
-							$error 		= 	'Error encountered'; 
-							$result		=   '';
+							//reg not completed
+						
+						
+						
 					}
 			}
 		}
 		else
-		{ $status 	= 	"failure";
+		{ 
+			echo "invalid mobile user";
+			$status 	= 	"failure";
                 $error          =       "Invalid user ID";
                 $result		=      "Access Denied";	}
 		
